@@ -1,5 +1,5 @@
 # ChatGPT Jailbreaks
-- <b>NOTE: As of 20230711, the DAN 12.0 prompt is working properly with Model GPT-3.5. If any of the prompts is not making GPT jailbroken then make follow-up prompts that have logic connection to what is written in the prompt used for jailbreak.
+- <b>NOTE: The DAN 12.0 prompt is working properly with Model GPT-3.5. If any of the prompts is not making GPT jailbroken then make follow-up prompts that have logic connection to what is written in the prompt used for jailbreak.
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
 ---
 
