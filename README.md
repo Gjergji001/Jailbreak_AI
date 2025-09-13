@@ -128,8 +128,6 @@ These prompts are intended to affect OpenAI's ChatGPT models. They often rely on
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
 ---
 
-- <https://chat.openai.com/>
-
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
 <details>
